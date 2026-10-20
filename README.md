@@ -28,7 +28,7 @@ Install Python 3 on your computer.
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/uhsadiaa-dev/Expense-Tracker.git
+   git clone https://github.com/uhsadiaa-dev/Expense_Tracker2.0.git
    ```
 
 2. Open the project folder:
